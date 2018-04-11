@@ -1,2 +1,2 @@
 # Algorithms
-Design and Analysis of algorithms Assignments
+Complete Analysis and Design of Algorithm with detailed document in IEEE Format
