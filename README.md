@@ -1,5 +1,5 @@
 # Algorithms
-DAA Assignements at IIITA
+DAA Assignments at IIITA
 
 # Assignment 1:
 Take a 10 x 10 matrix (n x n in general) filled with Devnagri alphabets. Trace the longest sorted partition:-
