@@ -1,10 +1,6 @@
 # Algorithms
 DAA Assignements at IIITA
 
-
-Design-Algorithm-And-Analysis
-Assignments of DAA432C which were assigned to Group30.
-
 #Assignment 1:
 Take a 10 x 10 matrix (n x n in general) filled with Devnagri alphabets. Trace the longest sorted partition:-
 a) in each column of the matrix
